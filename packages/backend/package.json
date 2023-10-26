@@ -1,6 +1,6 @@
 {
   "name": "backend",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "main": "dist/index.cjs.js",
   "types": "src/index.ts",
   "private": true,
@@ -34,7 +34,7 @@
     "@backstage/plugin-search-backend": "1.4.5",
     "@backstage/plugin-search-backend-module-pg": "0.5.14",
     "@backstage/plugin-search-backend-node": "1.2.9",
-    "@internal/plugin-scalprum-backend": "^0.1.0",
+    "@internal/plugin-scalprum-backend": "^0.1.1",
     "@backstage/backend-plugin-manager": "npm:@janus-idp/backend-plugin-manager@0.0.5-janus.0",
     "@backstage/plugin-events-backend": "0.2.14",
     "@backstage/plugin-events-node": "0.2.14",
